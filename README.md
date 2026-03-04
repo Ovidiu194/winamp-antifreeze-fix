@@ -1,5 +1,8 @@
+Winamp Quinto Black CT - 5.9.1 Build 10029
+
 # winamp-antifreeze-fix
 Winamp Reconfigured - Anti-Freeze Edition (v5.9.1 Build 10029)
+
 RO
 Remediere "Interface Freeze": Am reconfigurat setările de buffering și prioritate pentru a preveni blocarea interfeței winamp atunci când se copiază fișiere mari de pe o partiție pe alta.
 
@@ -24,4 +27,6 @@ Premium Visual Pack: Includes 2 top skins:
 
 To ensure compatibility the pack includes:
 -Visual C++ Redistributable (2015-2022)
-- DirectX Runtimes  
+- DirectX Runtimes
+
+- ![WWinamp](https://github.com/user-attachments/assets/556dfd06-d7d6-4642-a69a-ae9c3294f6ee)  
