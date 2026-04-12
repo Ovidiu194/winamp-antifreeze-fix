@@ -27,4 +27,5 @@ To ensure compatibility the pack includes:
 -DirectX Runtimes
 
 
-- ![WWinamp](https://github.com/user-attachments/assets/556dfd06-d7d6-4642-a69a-ae9c3294f6ee)  
+![WIZWIN](https://github.com/user-attachments/assets/25830e3f-14ff-42ff-940e-f464ff9c9f03)
+
